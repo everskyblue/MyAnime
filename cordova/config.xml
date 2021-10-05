@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="everskyblue.myanime" version="0.1.0">
+  <name>MyAnime</name>
+  <description>
+    crea una lista de animes visto o pendientes de ver
+  </description>
+  <author email="nikejoelmadrid@gmail.com">
+    Nike Madrid
+  </author>
+  <preference name="Orientation" value="portrait" />
+  <platform name="android">
+    <resource-file src="res/android/values/mystyles.xml"
+                   target="app/src/main/res/values/mystyles.xml" />
+
+    <preference name="Theme" value="@style/Theme.MyApp" />
+  </platform>
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>
