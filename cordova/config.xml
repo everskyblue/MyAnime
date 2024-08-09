@@ -4,8 +4,8 @@
   <description>
     crea una lista de animes visto o pendientes de ver
   </description>
-  <author email="nikejoelmadrid@gmail.com">
-    Nike Madrid
+  <author email="hicodx@gmail.com">
+    hicodx
   </author>
   <preference name="Orientation" value="portrait" />
   <platform name="android">
